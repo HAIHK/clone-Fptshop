@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clone-display-fpt-shop/static/css/main.cb5aaae5.css",
+    "main.css": "/clone-display-fpt-shop/static/css/main.d9af0685.css",
     "main.js": "/clone-display-fpt-shop/static/js/main.2474dc83.js",
     "static/js/787.3a7783ed.chunk.js": "/clone-display-fpt-shop/static/js/787.3a7783ed.chunk.js",
     "static/media/fa-solid-900.ttf": "/clone-display-fpt-shop/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
@@ -43,12 +43,12 @@
     "static/media/fa-v4compatibility.ttf": "/clone-display-fpt-shop/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/clone-display-fpt-shop/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/clone-display-fpt-shop/index.html",
-    "main.cb5aaae5.css.map": "/clone-display-fpt-shop/static/css/main.cb5aaae5.css.map",
+    "main.d9af0685.css.map": "/clone-display-fpt-shop/static/css/main.d9af0685.css.map",
     "main.2474dc83.js.map": "/clone-display-fpt-shop/static/js/main.2474dc83.js.map",
     "787.3a7783ed.chunk.js.map": "/clone-display-fpt-shop/static/js/787.3a7783ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb5aaae5.css",
+    "static/css/main.d9af0685.css",
     "static/js/main.2474dc83.js"
   ]
 }
